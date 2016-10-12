@@ -5,7 +5,13 @@ http://www.seraphthorn.com
 Pull requests welcome!
 
 Development in progress:
-Discussion Forum
+- MVP
+- Discussion Forum
+
+Blockchain Technology Development for consensus on immortality
+- This technology is a good candidate
+- See [blockchain technology](https://www.youtube.com/watch?v=m1sBurdHCNo&feature=youtu.be)
+
 
 Rules of Life Database
 - Negentropy sustains life
