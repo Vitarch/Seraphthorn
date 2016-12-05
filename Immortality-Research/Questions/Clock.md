@@ -27,5 +27,5 @@ Question: What is the frame of reference for our clocks?
 REFERENCE
 https://www.quantamagazine.org/20150915-circadian-clocks/
 
-Questions: How does understanding co-decaying dark matter help to understand how biological clocks work?
+Question: How does understanding co-decaying dark matter help to understand how biological clocks work?
 http://phys.org/news/2016-12-case-co-decaying-dark.html
