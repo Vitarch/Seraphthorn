@@ -6,7 +6,7 @@ I have another friend who was diagnosed with Celiac after the birth of her secon
 
 Celiac Disease is hereditary.  From these 2 samples, I see a pattern of external triggers that involved extreme stress.  The other possibility includes what was in the medications.
 
-My conclusion is that Antibiotics + Steroids + Infection played a role in the trigger.
+My conclusion is that Antibiotics + Steroids + Infection played a role in the trigger where Steroids is key.
 
 
 
