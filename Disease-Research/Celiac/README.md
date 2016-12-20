@@ -5,7 +5,7 @@ was a medicinal cocktail and other factors that could've contributed to the onse
 
 I have another friend who was diagnosed with Celiac after the birth of her second child (a daughter).  Her first child was a boy.
 
-Celiac Disease is hereditary.  From these 2 sample, I see a pattern of external triggers that involved extreme stress.  The other
+Celiac Disease is hereditary.  From these 2 samples, I see a pattern of external triggers that involved extreme stress.  The other
 possibility includes what was in the medication (antibiotics + epidural medication + ?)
 
 
